@@ -68,7 +68,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/profile.php?id=100078169614015" target="blank">
+    <a href="https://www.facebook.com/leigh.queue" target="blank">
         <img src="https://img.icons8.com/fluency/144/ffffff/facebook-new.png" style="height: 4rem"></a>
     <a href="https://twitter.com/leighEST2021" target="blank">
         <img src="https://img.icons8.com/color/144/ffffff/twitter--v1.png" style="height: 4rem"/></a>
