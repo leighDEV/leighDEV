@@ -20,7 +20,7 @@
 
 - 👀 I’m interested in Machine Learning and Aritificial Intelligence.
 - 🌱 I’m currently learning Computer Science and Software Engineering through C# programming language.
-- 💞️ I’m looking for internship opportunities for computer programming.
+- 💞️ I’m looking for internship opportunities for Computer Programmers.
 - 📫 How to reach me: Catch and follow me from the email above and links below.
 - ⚡ Fun fact: I think I'm a Slytherin.
 
