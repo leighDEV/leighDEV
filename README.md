@@ -25,7 +25,7 @@
 </div>
 <br>
 
-<div align="left"> <h3>Languages and Tools</h3>
+<div align="left"> <h3>Languages and Tools:</h3>
     <p align="left">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="height: 4rem"/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="height: 4rem"/>
@@ -60,6 +60,7 @@
 
 <h3 align="center">Thank you for visiting!</h3>
 <br>
+
 <div align="center"> <h3>Connect with me:</h3>
 <p align="center">
     <a href="https://www.facebook.com/leigh.queue" target="blank">
