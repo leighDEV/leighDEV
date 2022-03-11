@@ -64,13 +64,13 @@
 
 <div align="center"> <h3>Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/leigh.queue" target="_blank">
+    <a href="https://www.facebook.com/leigh.queue" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/144/ffffff/facebook-new.png" style="height: 4rem"></a>
-    <a href="https://twitter.com/leighEST2021" target="_blank">
+    <a href="https://twitter.com/leighEST2021" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/144/ffffff/twitter--v1.png" style="height: 4rem"/></a>
-    <a href="https://www.instagram.com/_leighout" target="_blank">
+    <a href="https://www.instagram.com/_leighout" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/144/ffffff/instagram-new.png" style="height: 4rem"></a>
-    <a href="https://www.youtube.com/channel/UC29rLFFlrNSHZqoCz6XF_XQ" target="blank">
+    <a href="https://www.youtube.com/channel/UC29rLFFlrNSHZqoCz6XF_XQ" target="blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/144/ffffff/youtube-play.png" style="height: 4rem"/></a>
     </p>
 </div>
