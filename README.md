@@ -5,7 +5,8 @@
 </div>
 
 <div align=center>
-    <a href="mailto:leighest2021@gmail.com"><img src="https://img.shields.io/badge/-leighest2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leighest2021@gmail.com)](keighest2021@gmail.com" alt="Gmail" /></a>
+    <a href="mailto:leighest2021@gmail.com">
+        <img src="https://img.shields.io/badge/-leighest2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leighest2021@gmail.com)](keighest2021@gmail.com" alt="Gmail" /></a>
 </div>
 <br>
     
@@ -63,11 +64,11 @@
 
 <div align="center"> <h3>Connect with me:</h3>
 <p align="center">
-    <a href="https://www.facebook.com/leigh.queue" target="blank">
+    <a href="https://www.facebook.com/leigh.queue" target="_blank">
         <img src="https://img.icons8.com/fluency/144/ffffff/facebook-new.png" style="height: 4rem"></a>
-    <a href="https://twitter.com/leighEST2021" target="blank">
+    <a href="https://twitter.com/leighEST2021" target="_blank">
         <img src="https://img.icons8.com/color/144/ffffff/twitter--v1.png" style="height: 4rem"/></a>
-    <a href="https://www.instagram.com/_leighout" target="blank">
+    <a href="https://www.instagram.com/_leighout" target="_blank">
         <img src="https://img.icons8.com/fluency/144/ffffff/instagram-new.png" style="height: 4rem"></a>
     <a href="https://www.youtube.com/channel/UC29rLFFlrNSHZqoCz6XF_XQ" target="blank">
         <img src="https://img.icons8.com/color/144/ffffff/youtube-play.png" style="height: 4rem"/></a>
