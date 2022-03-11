@@ -64,7 +64,7 @@
 
 <div align="center"> <h3>Connect with me:</h3>
 <p align="center">
-    <a href="#" onclick='window.open("https://www.facebook.com/leigh.queue");return false;' target="_blank" rel="noopener noreferrer">
+    <a href="https://www.facebook.com/leigh.queue" target="_blank" https://www.facebook.com/leigh.queue rel="noopener noreferrer">
         <img src="https://img.icons8.com/fluency/144/ffffff/facebook-new.png" style="height: 4rem"></a>
     <a href="https://twitter.com/leighEST2021" target="_blank" rel="noopener noreferrer">
         <img src="https://img.icons8.com/color/144/ffffff/twitter--v1.png" style="height: 4rem"/></a>
