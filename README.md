@@ -9,13 +9,14 @@
         <img src="https://img.shields.io/badge/-leighest2021@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leighest2021@gmail.com)](keighest2021@gmail.com" alt="Gmail" /></a>
 </div>
 <br>
-    
+
+<!--
 <div align="left"> <h3>Profile Views:</h3>
 <img src="https://komarev.com/ghpvc/?username=leighDEV&label=Profile%20views&color=FD428D&style=flat-square"
      alt="leighDEV" /> 
 </div>
 <br>
-
+-->
 <div align="left"> <h3>Current Status Quo:</h3>
 
 - 👀 I’m interested in Machine Learning and Aritificial Intelligence.
