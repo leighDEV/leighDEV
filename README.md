@@ -24,7 +24,7 @@
 - 💞️ I’m looking for internship opportunities for Computer Programmers.
 - 📫 How to reach me: Catch and follow me from the email above and links below.
 - :octocat: Feel free to look at my school activities repositories in <a href="https://github.com/leighTOR">leighTOR</a>
-- ⚡ Fun fact: I think I'm a Slytherin.
+- ⚡ Fun fact: I like to think that I'm a Slytherin.
 </div>
 <br>
 
